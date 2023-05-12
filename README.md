@@ -5,3 +5,5 @@
 - [230512] - [샌드박스](https://github.com/devKobe24/TIL/blob/main/pdf/%5B230512%5D%5BSandBox%5D.pdf)
 - [230512] - [API Design Guideline](https://github.com/devKobe24/TIL/blob/main/pdf/%5B230512%5D%5BAPIDesignGuideline%5D.pdf)
 - [230512] - [Optional](https://github.com/devKobe24/TIL/blob/main/pdf/%5B230512%5D%5BOptional%5D.pdf)
+- [230512] - [Optional Binding](https://github.com/devKobe24/TIL/blob/main/pdf/%5B230512%5D%5BOptional_Binding%5D.pdf)
+- [230512] - [Optional Chaining](https://github.com/devKobe24/TIL/blob/main/pdf/%5B230512%5D%5BOptionalChaining%5D.pdf)
