@@ -13,3 +13,4 @@
 - [230515] - [객체 지향](https://github.com/devKobe24/TIL/wiki/%5B230515%5D%5B%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%5D)
 - [230515] - [Modality](https://github.com/devKobe24/TIL/wiki/%5B230515%5D%5BModality%5D)
 - [230514] - [클래스 vs 구조체 + (업캐스팅, 다운캐스팅)](https://github.com/devKobe24/TIL/wiki/%5B230516%5D%5B%ED%81%B4%EB%9E%98%EC%8A%A4-vs-%EA%B5%AC%EC%A1%B0%EC%B2%B4---(%EC%97%85%EC%BA%90%EC%8A%A4%ED%8C%85,-%EB%8B%A4%EC%9A%B4%EC%BA%90%EC%8A%A4%ED%8C%85)%5D)
+- [230514] - [인터페이스 타입](https://github.com/devKobe24/TIL/wiki/%5B230516%5D%5B%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%ED%83%80%EC%9E%85%5D)
