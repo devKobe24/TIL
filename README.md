@@ -16,3 +16,4 @@
 - [230518 TIL](https://morgan-kang.notion.site/230518-TIL-3b0594bfb2ce453fbb5a8d3a7aecfa1f)
 - [230519 TIL(1)](https://www.notion.so/morgan-kang/230519-TIL-23bd7e21dbc547938f14f63838560c15)
 - [230519 TIL(2)](https://www.notion.so/morgan-kang/230519-TIL-2-ef7968f2901e4ef895a9a9ceaf0d9324)
+- [230520 TIL (집합)](https://morgan-kang.notion.site/230520-TIL-2-33953f4b283842daac9cff501e36e5a0)
