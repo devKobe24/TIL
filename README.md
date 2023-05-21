@@ -26,3 +26,4 @@
 - [230520 TIL (집합)](https://morgan-kang.notion.site/230520-TIL-2-33953f4b283842daac9cff501e36e5a0)
 - [230520 TIL (SOLID)](https://morgan-kang.notion.site/230520-TIL-SOLID-d77c52091c874ef4848376d248ee1eae)
 - [230520 TIL (super 키워드)](https://www.notion.so/morgan-kang/230520-TIL-5-super-7e4ca2e5ca7b4371ad2cf940ef6f5621)
+- [230522 TIL (protocol ~ delegation)](https://www.notion.so/morgan-kang/230521-TIL-Protocols-Delegation-e927210295f74698938a2d1c0c83da3d)
