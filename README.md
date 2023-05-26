@@ -28,3 +28,4 @@
 - [230520 TIL (super 키워드)](https://www.notion.so/morgan-kang/230520-TIL-5-super-7e4ca2e5ca7b4371ad2cf940ef6f5621)
 - [230522 TIL (protocol ~ delegation)](https://www.notion.so/morgan-kang/230521-TIL-Protocols-Delegation-e927210295f74698938a2d1c0c83da3d)
 - [230526 TIL Collection Overview](https://github.com/devKobe24/TIL/blob/main/TIL/230526_TIL.md)
+- [230526 TIL Array(1)](https://github.com/devKobe24/TIL/blob/main/TIL/230526(1)_TIL.md)
