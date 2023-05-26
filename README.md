@@ -29,3 +29,4 @@
 - [230522 TIL (protocol ~ delegation)](https://www.notion.so/morgan-kang/230521-TIL-Protocols-Delegation-e927210295f74698938a2d1c0c83da3d)
 - [230526 TIL Collection Overview](https://github.com/devKobe24/TIL/blob/main/TIL/230526_TIL.md)
 - [230526 TIL Array(1)](https://github.com/devKobe24/TIL/blob/main/TIL/230526(1)_TIL.md)
+- [230526 TIL Array(2)](https://github.com/devKobe24/TIL/blob/main/TIL/230526(1)_TIL.md)
