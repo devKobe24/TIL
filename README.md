@@ -33,3 +33,4 @@
 - [230527 TIL Array(3)](https://github.com/devKobe24/TIL/blob/main/TIL/230527_TIL.md)
 - [230527 TIL Array(4)](https://github.com/devKobe24/TIL/blob/main/TIL/230527(2)_TIL.md)
 - [230528 TIL Array(5)](https://github.com/devKobe24/TIL/blob/main/TIL/230528_TIL.md)
+- [230528 TIL Dictionary(1)](https://github.com/devKobe24/TIL/blob/main/TIL/230528(2)_TIL.md)
