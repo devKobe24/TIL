@@ -37,3 +37,4 @@
 - [230529 TIL Dictionary(2)](https://github.com/devKobe24/TIL/blob/main/TIL/230529_TIL.md)
 - [230530 TIL Queue, List, Linked List](https://github.com/devKobe24/TIL/blob/main/TIL/230530_TIL.md)
 - [230530 TIL CustomStringConvertible](https://github.com/devKobe24/TIL/blob/main/TIL/230530(2)_TIL.md)
+- [230531 TIL 제네릭, Equatable](https://github.com/devKobe24/TIL/blob/main/TIL/230531_TIL.md)
