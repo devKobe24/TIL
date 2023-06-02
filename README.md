@@ -44,3 +44,4 @@
 - [230601 TIL 모듈, 라이브러리, 프레임워크, 클래스의 응집력, 인터페이스, 추상 클래스](https://github.com/devKobe24/TIL/blob/main/TIL/230601(2)_TIL.md)
 - [230601 TIL 단방향 리스트로 큐를 구현했을 때의 장점, Swift에서 큐의 구현이 동적인 이유, 단방향 리스트의 동작 방식, 테일 포인터](https://github.com/devKobe24/TIL/blob/main/TIL/230601(3)_TIL.md)
 - [230602 TIL 소프트웨어의 가치, 유연성을 챙겨야 하는 시기와 고민, No silver bullet, OOP](https://github.com/devKobe24/TIL/blob/main/TIL/230602_TIL.md)
+- [230602 TIL 객체지향 프로그래밍 패러다임, OOP](https://github.com/devKobe24/TIL/blob/main/TIL/230602(2)_TIL.md)
