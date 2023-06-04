@@ -46,5 +46,4 @@
 - [230602 TIL 소프트웨어의 가치, 유연성을 챙겨야 하는 시기와 고민, No silver bullet, OOP](https://github.com/devKobe24/TIL/blob/main/TIL/230602_TIL.md)
 - [230602 TIL 객체지향 프로그래밍 패러다임, OOP](https://github.com/devKobe24/TIL/blob/main/TIL/230602(2)_TIL.md)
 - [230602 TIL 의존성 주입](https://github.com/devKobe24/TIL/blob/main/TIL/230602(3)_TIL.md)
-
-
+- [230604 TIL 프로토콜 지향 프로그래밍(POP)](https://github.com/devKobe24/TIL/blob/main/TIL/230604_TIL.md)
