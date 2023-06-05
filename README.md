@@ -48,3 +48,4 @@
 - [230602 TIL 의존성 주입](https://github.com/devKobe24/TIL/blob/main/TIL/230602(3)_TIL.md)
 - [230604 TIL 프로토콜 지향 프로그래밍(POP)](https://github.com/devKobe24/TIL/blob/main/TIL/230604_TIL.md)
 - [230606 TIL 프로토콜](https://github.com/devKobe24/TIL/blob/main/TIL/230606_TIL.md)
+- [230606 TIL 익스텐션](https://github.com/devKobe24/TIL/blob/main/TIL/230606(2)_TIL.md)
