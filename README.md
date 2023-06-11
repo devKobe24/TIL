@@ -52,4 +52,4 @@
 - [230607 TIL LLDB](https://github.com/devKobe24/TIL/blob/main/TIL/230607_TIL.md)
 - [230609 TIL 고차함수](https://github.com/devKobe24/TIL/blob/main/TIL/230609_TIL.md)
 - [230610 TIL 익스텐션, 오류처리, throws, rethrows, try, do-catch](https://github.com/devKobe24/TIL/blob/main/TIL/230610_TIL.md)
-
+- [230611 TIL 접근제어, 모듈과 소스파일, 접근수준, 접근제어 구현 참고사항, private과 fileprivate, 읽기 전용 구현, POP, POP와 OCP의 연관관계](https://github.com/devKobe24/TIL/blob/main/TIL/230611_TIL.md)
