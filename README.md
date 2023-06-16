@@ -55,3 +55,4 @@
 - [230611 TIL 접근제어, 모듈과 소스파일, 접근수준, 접근제어 구현 참고사항, private과 fileprivate, 읽기 전용 구현, POP, POP와 OCP의 연관관계](https://github.com/devKobe24/TIL/blob/main/TIL/230611_TIL.md)
 - [230611 TIL ARC](https://github.com/devKobe24/TIL/blob/main/TIL/230612_TIL.md)
 - [230615 TIL UIApplicationDelegate, UISceneDelegate, Managing your app’s life cycle](https://github.com/devKobe24/TIL/blob/main/TIL/230615_TIL.md)
+- [230616 TIL Private 과 Private (set) var](https://github.com/devKobe24/TIL/blob/main/TIL/230616(2)_TIL.md)
