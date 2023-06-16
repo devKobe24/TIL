@@ -57,3 +57,4 @@
 - [230615 TIL UIApplicationDelegate, UISceneDelegate, Managing your app’s life cycle](https://github.com/devKobe24/TIL/blob/main/TIL/230615_TIL.md)
 - [230616 TIL Private 과 Private (set) var](https://github.com/devKobe24/TIL/blob/main/TIL/230616(2)_TIL.md)
 - [230616 TIL 재귀적인 데이터 타입](https://github.com/devKobe24/TIL/blob/main/TIL/230616(3)_TIL.md)
+- [230616 TIL indirect 키워드와 열거형](https://github.com/devKobe24/TIL/blob/main/TIL/230616(4)_TIL.md)
