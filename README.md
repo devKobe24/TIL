@@ -59,3 +59,4 @@
 - [230616 TIL 재귀적인 데이터 타입](https://github.com/devKobe24/TIL/blob/main/TIL/230616(3)_TIL.md)
 - [230616 TIL indirect 키워드와 열거형](https://github.com/devKobe24/TIL/blob/main/TIL/230616(4)_TIL.md)
 - [230619 TIL NumberFormatter, NumberFormatter 속성들, maximumSignuficantDigits 속성의 역할, maximumFractionDigits](https://github.com/devKobe24/TIL/blob/main/TIL/230619_TIL.md)
+- [230620 TIL SOLID 원칙과 예시](https://github.com/devKobe24/TIL/blob/main/TIL/230620_TIL.md)
