@@ -67,3 +67,4 @@
 - [230620 TIL Scene 객체가 생성되었는데 아직 시스템에 연결되지 않은 상태일 수 있는 이유는?](https://github.com/devKobe24/TIL/blob/main/TIL/230620(6)_TIL.md)
 - [230621 TIL UISceneSession](https://github.com/devKobe24/TIL/blob/main/TIL/230621_TIL.md)
 - [230621 TIL UIWindow, Window](https://github.com/devKobe24/TIL/blob/main/TIL/230621(2)_TIL.md)
+- [230621 TIL 스.데.알 - 데이터 구조의 중요성, 데이터 구조 + 알고리즘 == 프로그램, 기본적인 데이터 구조, 인접 데이터 구조, 배열, 배열 선언](https://github.com/devKobe24/TIL/blob/main/TIL/230621(3)_TIL.md)
