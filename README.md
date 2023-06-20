@@ -64,3 +64,4 @@
 - [230620 TIL Scene-Based App Life Cycle](https://github.com/devKobe24/TIL/blob/main/TIL/230620(3)_TIL.md)
 - [230620 TIL SceneDelegate와 메서드](https://github.com/devKobe24/TIL/blob/main/TIL/230620(4)_TIL.md)
 - [230620 TIL App-Based App Life Cycle, UIApplicationDelegate, 용어 사전](https://github.com/devKobe24/TIL/blob/main/TIL/230620(5)_TIL.md)
+- [230620 TIL Scene 객체가 생성되었는데 아직 시스템에 연결되지 않은 상태일 수 있는 이유는?](https://github.com/devKobe24/TIL/blob/main/TIL/230620(6)_TIL.md)
