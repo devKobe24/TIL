@@ -71,3 +71,4 @@
 - [230625 TIL - TableViews](https://github.com/devKobe24/TIL/blob/main/TIL/230625_TIL.md)
 - [230625 TIL - UITableViewController](https://github.com/devKobe24/TIL/blob/main/TIL/230625(2)_TIL.md)
 - [230625 TIL - UITableViewDataSource](https://github.com/devKobe24/TIL/blob/main/TIL/230625(3)_TIL.md)
+- [230625 TIL - UITableViewDelegate](https://github.com/devKobe24/TIL/blob/main/TIL/230625(4)_TIL.md)
