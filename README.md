@@ -75,3 +75,4 @@
 - [230625 TIL - IndexPath](https://github.com/devKobe24/TIL/blob/main/TIL/230625(5)_TIL.md)
 - [230625 TIL - section](https://github.com/devKobe24/TIL/blob/main/TIL/230625(6)_TIL.md)
 - [230625 TIL - row](https://github.com/devKobe24/TIL/blob/main/TIL/230625(7)_TIL.md)
+- [230625 TIL - Filling a table with data, Provide the numbers of rows and sections, Define the appearance fo rows, Create and cells for each row, Prefetch data to improve performance, 용어 사전](https://github.com/devKobe24/TIL/blob/main/TIL/230625(8)_TIL.md)
