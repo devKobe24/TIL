@@ -72,3 +72,4 @@
 - [230625 TIL - UITableViewController](https://github.com/devKobe24/TIL/blob/main/TIL/230625(2)_TIL.md)
 - [230625 TIL - UITableViewDataSource](https://github.com/devKobe24/TIL/blob/main/TIL/230625(3)_TIL.md)
 - [230625 TIL - UITableViewDelegate](https://github.com/devKobe24/TIL/blob/main/TIL/230625(4)_TIL.md)
+- [230625 TIL - IndexPath](https://github.com/devKobe24/TIL/blob/main/TIL/230625(5)_TIL.md)
