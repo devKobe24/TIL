@@ -78,3 +78,4 @@
 - [230625 TIL - Filling a table with data, Provide the numbers of rows and sections, Define the appearance fo rows, Create and cells for each row, Prefetch data to improve performance, 용어 사전](https://github.com/devKobe24/TIL/blob/main/TIL/230625(8)_TIL.md)
 - [230626 TIL - 테이블 뷰, 테이블 뷰 기본형테, 테이블 뷰 스타일, 테이블 뷰 생성, 테이블 뷰 구성요소](https://github.com/devKobe24/TIL/blob/main/TIL/230626_TIL.md)
 - [230626 TIL - 테이블 뷰 셀, 테이블 뷰 셀의 구조, 테이블 뷰 셀의 기본 기능, 커스텀 테이블 뷰 셀](https://github.com/devKobe24/TIL/blob/main/TIL/230626(2)_TIL.md)
+- [230625 TIL - DataSource와 Delegate, DataSource, Delegate](https://github.com/devKobe24/TIL/blob/main/TIL/230626(3)_TIL.md)
