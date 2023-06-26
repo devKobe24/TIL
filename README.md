@@ -82,3 +82,4 @@
 - [230625 - Moder Cell Configuration 1](https://github.com/devKobe24/TIL/blob/main/TIL/230626(4)_TIL.md)
 - [230625 - 뷰의 재사용, 재사용의 대표적인 예, 재사용 원리](https://github.com/devKobe24/TIL/blob/main/TIL/230626(5)_TIL.md)
 - [230625 - 세그, UIStoryboardSegue 클래스, 주요 프로퍼티, 주요 메서드, 인터페이스 빌더의 세그 연결](https://github.com/devKobe24/TIL/blob/main/TIL/230626(6)_TIL.md)
+- [230625 - Codable, 인코딩과 디코딩, 선언예제, 용어사전](https://github.com/devKobe24/TIL/blob/main/TIL/230626(7)_TIL.md)
