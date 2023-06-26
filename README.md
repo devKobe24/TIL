@@ -84,3 +84,4 @@
 - [230625 TIL - 세그, UIStoryboardSegue 클래스, 주요 프로퍼티, 주요 메서드, 인터페이스 빌더의 세그 연결](https://github.com/devKobe24/TIL/blob/main/TIL/230626(6)_TIL.md)
 - [230625 TIL - Codable, 인코딩과 디코딩, 선언예제, 용어사전](https://github.com/devKobe24/TIL/blob/main/TIL/230626(7)_TIL.md)
 - [230625 TIL - JSONEncoder와 JSONDecoder](https://github.com/devKobe24/TIL/blob/main/TIL/230626(8)_TIL.md)
+- [230625 TIL - Using JSON with Custom Types, Read Data from Arrays(배열에서 데이터 읽기), Change Key Names(키 이름 변경), Access Nested Data(중첩 데이터에 액세스), Merge Data at Different Depths(서로 다른 깊이에서 데이터 병합)](https://github.com/devKobe24/TIL/blob/main/TIL/230626(9)_TIL.md)
