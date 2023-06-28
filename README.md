@@ -87,4 +87,4 @@
 - [230626 TIL - Using JSON with Custom Types, Read Data from Arrays(배열에서 데이터 읽기), Change Key Names(키 이름 변경), Access Nested Data(중첩 데이터에 액세스), Merge Data at Different Depths(서로 다른 깊이에서 데이터 병합)](https://github.com/devKobe24/TIL/blob/main/TIL/230626(9)_TIL.md)
 - [230627 TIL - JSONDecoder](https://github.com/devKobe24/TIL/blob/main/TIL/230627_TIL.md)
 - [230628 TIL - Decodable, Encodable, Codable](https://github.com/devKobe24/TIL/blob/main/TIL/230628_TIL.md)
-- 230629 TIL - 재사용 셀, Cell의 재사용 매커니즘, Cell 재사용 매커니즘에서 중요하게 사용되는 프로토콜과 메서드](https://github.com/devKobe24/TIL/blob/main/TIL/230629_TIL.md)
+- [230629 TIL - 재사용 셀, Cell의 재사용 매커니즘, Cell 재사용 매커니즘에서 중요하게 사용되는 프로토콜과 메서드](https://github.com/devKobe24/TIL/blob/main/TIL/230629_TIL.md)
