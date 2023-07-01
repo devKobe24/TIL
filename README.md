@@ -89,3 +89,4 @@
 - [230628 TIL - Decodable, Encodable, Codable](https://github.com/devKobe24/TIL/blob/main/TIL/230628_TIL.md)
 - [230629 TIL - 재사용 셀, Cell의 재사용 매커니즘, Cell 재사용 매커니즘에서 중요하게 사용되는 프로토콜과 메서드](https://github.com/devKobe24/TIL/blob/main/TIL/230629_TIL.md)
 - [230701 TIL - prepare 메서드를 이용한 데이터 전달](https://github.com/devKobe24/TIL/blob/main/TIL/230701_TIL.md)
+- [230701 TIL - translatesAutoresizingMaskIntoConstraints, frame](https://github.com/devKobe24/TIL/blob/main/TIL/230701(2)_TIL.md)
