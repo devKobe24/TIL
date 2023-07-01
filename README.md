@@ -91,3 +91,4 @@
 - [230701 TIL - prepare 메서드를 이용한 데이터 전달](https://github.com/devKobe24/TIL/blob/main/TIL/230701_TIL.md)
 - [230701 TIL - translatesAutoresizingMaskIntoConstraints, frame](https://github.com/devKobe24/TIL/blob/main/TIL/230701(2)_TIL.md)
 - [230701 TIL - bounds](https://github.com/devKobe24/TIL/blob/main/TIL/230701(3)_TIL.md)
+- [230701 TIL - center](https://github.com/devKobe24/TIL/blob/main/TIL/230701(4)_TIL.md)
