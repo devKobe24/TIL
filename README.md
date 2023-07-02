@@ -92,3 +92,4 @@
 - [230701 TIL - translatesAutoresizingMaskIntoConstraints, frame](https://github.com/devKobe24/TIL/blob/main/TIL/230701(2)_TIL.md)
 - [230701 TIL - bounds](https://github.com/devKobe24/TIL/blob/main/TIL/230701(3)_TIL.md)
 - [230701 TIL - center](https://github.com/devKobe24/TIL/blob/main/TIL/230701(4)_TIL.md)
+- [230702 TIL - 동시성 프로그래밍, 동시성 및 애플리케이션 설계, 용어 사전](https://github.com/devKobe24/TIL/blob/main/TIL/230702_TIL.md)
