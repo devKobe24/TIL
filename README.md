@@ -93,3 +93,4 @@
 - [230701 TIL - bounds](https://github.com/devKobe24/TIL/blob/main/TIL/230701(3)_TIL.md)
 - [230701 TIL - center](https://github.com/devKobe24/TIL/blob/main/TIL/230701(4)_TIL.md)
 - [230702 TIL - 동시성 프로그래밍, 동시성 및 애플리케이션 설계, 용어 사전](https://github.com/devKobe24/TIL/blob/main/TIL/230702_TIL.md)
+- [230702 TIL - 컴퓨터 과학의 관점에서 볼 때 Windows 운영체제는 32bit 버전, 64 bit 버전, ARM 버전 등 다양한 버전이 존재합니다. 이 버전은 어떤 것을 의미하며 왜 이렇게 다양한 버전이 존재할까요?](https://github.com/devKobe24/TIL/blob/main/TIL/230702(2)_TIL.md)
