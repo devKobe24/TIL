@@ -98,3 +98,4 @@
 - [230708 TIL - GCD 기본, DispatchQueue 1: Serial / Concurrent, Serial Concurrent, main / global, Main Thread,  DispatchQueue 2: sync / async, main.sync, global().async, global().sync, main.sync, DispatchWorkItem, asyncAfter, asyncAndWait ,헷갈리는 개념 다시 잡기, 용어 사전](https://github.com/devKobe24/TIL/blob/main/TIL/230708_TIL.md)
 - [230708 TIL - GCD 심화, DispatchQueue의 초기화, QoS(Quality of Service), async, CompletionHandler, DispatchGroup, Race Condition, Thread safe, DispatchSemaphore, Serial Queue 활용하여 race condition 해결하기, UI 작업은 왜 Main Thread에서 해야할까?](https://github.com/devKobe24/TIL/blob/main/TIL/230708(2)_TIL.md)
 - [230711 TIL - 단방향 LinkedList를 구조체로 정의한 이유.](https://github.com/devKobe24/TIL/blob/main/TIL/230711_TIL.md)
+- [230713 TIL - GCD의 이해.](https://github.com/devKobe24/TIL/blob/main/TIL/230713_TIL.md)
