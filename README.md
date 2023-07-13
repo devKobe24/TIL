@@ -100,3 +100,4 @@
 - [230711 TIL - 단방향 LinkedList를 구조체로 정의한 이유.](https://github.com/devKobe24/TIL/blob/main/TIL/230711_TIL.md)
 - [230713 TIL - GCD의 이해.](https://github.com/devKobe24/TIL/blob/main/TIL/230713_TIL.md)
 - [230713 TIL - 제네릭, 제네릭의 개념, 제네릭 예시코드, 프로토콜 지향 프로그래밍, 프로토콜 지향 프로그래밍 예시 코드](https://github.com/devKobe24/TIL/blob/main/TIL/230713(2)_TIL.md)
+- [230713 TIL - Swift 문법에서의 Self 와 self 의 차이점, 그렇다면 Self는 메타타입인가?](https://github.com/devKobe24/TIL/blob/main/TIL/230713(3)_TIL.md)
