@@ -99,3 +99,4 @@
 - [230708 TIL - GCD 심화, DispatchQueue의 초기화, QoS(Quality of Service), async, CompletionHandler, DispatchGroup, Race Condition, Thread safe, DispatchSemaphore, Serial Queue 활용하여 race condition 해결하기, UI 작업은 왜 Main Thread에서 해야할까?](https://github.com/devKobe24/TIL/blob/main/TIL/230708(2)_TIL.md)
 - [230711 TIL - 단방향 LinkedList를 구조체로 정의한 이유.](https://github.com/devKobe24/TIL/blob/main/TIL/230711_TIL.md)
 - [230713 TIL - GCD의 이해.](https://github.com/devKobe24/TIL/blob/main/TIL/230713_TIL.md)
+- [230713 TIL - 제네릭, 제네릭의 개념, 제네릭 예시코드, 프로토콜 지향 프로그래밍, 프로토콜 지향 프로그래밍 예시 코드](https://github.com/devKobe24/TIL/blob/main/TIL/230713(2)_TIL.md)
