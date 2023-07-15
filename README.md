@@ -104,3 +104,4 @@
 - [230714 TIL - 시간과 날짜를 다루는 타입](https://github.com/devKobe24/TIL/blob/main/TIL/230714_TIL.md)
 - [230715 TIL - Intro, Serial과 Concurrent, main과 global](https://github.com/devKobe24/TIL/blob/main/TIL/230715_TIL.md)
 - [230715 TIL - Main Thread](https://github.com/devKobe24/TIL/blob/main/TIL/230715(2)_TIL.md)
+- [230715 TIL - sync 와 async](https://github.com/devKobe24/TIL/blob/main/TIL/230715(3)_TIL.md)
