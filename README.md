@@ -102,3 +102,4 @@
 - [230713 TIL - 제네릭, 제네릭의 개념, 제네릭 예시코드, 프로토콜 지향 프로그래밍, 프로토콜 지향 프로그래밍 예시 코드](https://github.com/devKobe24/TIL/blob/main/TIL/230713(2)_TIL.md)
 - [230713 TIL - Swift 문법에서의 Self 와 self 의 차이점, 그렇다면 Self는 메타타입인가?](https://github.com/devKobe24/TIL/blob/main/TIL/230713(3)_TIL.md)
 - [230714 TIL - 시간과 날짜를 다루는 타입](https://github.com/devKobe24/TIL/blob/main/TIL/230714_TIL.md)
+- [230715 TIL - Intro, Serial과 Concurrent, main과 global](https://github.com/devKobe24/TIL/blob/main/TIL/230715_TIL.md)
