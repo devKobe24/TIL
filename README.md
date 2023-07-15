@@ -106,4 +106,4 @@
 - [230715 TIL - Main Thread](https://github.com/devKobe24/TIL/blob/main/TIL/230715(2)_TIL.md)
 - [230715 TIL - sync 와 async](https://github.com/devKobe24/TIL/blob/main/TIL/230715(3)_TIL.md)
 - [230715 TIL - main.sync](https://github.com/devKobe24/TIL/blob/main/TIL/230715(4)_TIL.md)
-- [230715 TIL global().sync](https://github.com/devKobe24/TIL/blob/main/TIL/230715(5)_TIL.md)
+- [230715 TIL - global().sync](https://github.com/devKobe24/TIL/blob/main/TIL/230715(5)_TIL.md)
