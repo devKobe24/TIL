@@ -110,3 +110,4 @@
 - [230715 TIL - main.sync](https://github.com/devKobe24/TIL/blob/main/TIL/230715(6)_TIL.md)
 - [230715 TIL - Section I-1 Introduction.](https://github.com/devKobe24/TIL/blob/main/TIL/230715(7)_TIL.md)
 - [230716 TIL - Section I-2 GCD vs Operations](https://github.com/devKobe24/TIL/blob/main/TIL/230716_TIL.md)
+- [230719 TIL - Section II-3 Queues & Threads](https://github.com/devKobe24/TIL/blob/main/TIL/230719_TIL.md)
