@@ -115,3 +115,4 @@
 - [230720 TIL - Section II-4 Groups & Semaphores](https://github.com/devKobe24/TIL/blob/main/TIL/230720(2)_TIL.md)
 - [230721 TIL - Section II-5 Concurrency Problems](https://github.com/devKobe24/TIL/blob/main/TIL/230721_TIL.md)
 - [230721 TIL - 재할당과 변경의 차이](https://github.com/devKobe24/TIL/blob/main/TIL/230721(2)_TIL.md)
+- [230722 TIL - Responder Chain](https://github.com/devKobe24/TIL/blob/main/TIL/230722_TIL.md)
