@@ -117,3 +117,4 @@
 - [230721 TIL - 재할당과 변경의 차이](https://github.com/devKobe24/TIL/blob/main/TIL/230721(2)_TIL.md)
 - [230722 TIL - Responder Chain](https://github.com/devKobe24/TIL/blob/main/TIL/230722_TIL.md)
 - [230722 TIL - Using responders and the responder chain to handle events(1)](https://github.com/devKobe24/TIL/blob/main/TIL/230722(2)_TIL.md)
+- [230723 TIL - UICollectionViewDiffableDataSource](https://github.com/devKobe24/TIL/blob/main/TIL/230723_TIL.md)
