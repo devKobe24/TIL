@@ -119,3 +119,4 @@
 - [230722 TIL - Using responders and the responder chain to handle events(1)](https://github.com/devKobe24/TIL/blob/main/TIL/230722(2)_TIL.md)
 - [230723 TIL - UICollectionViewDiffableDataSource](https://github.com/devKobe24/TIL/blob/main/TIL/230723_TIL.md)
 - [230724 TIL - UICollectionView](https://github.com/devKobe24/TIL/blob/main/TIL/230724_TIL.md)
+- [230724 TIL - UICollectionView란?, UICollectionViewDataSource의 개념, UICollectionViewLayout의 개념](https://github.com/devKobe24/TIL/blob/main/TIL/230724(2)_TIL.md)
