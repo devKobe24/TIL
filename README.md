@@ -122,3 +122,4 @@
 - [230724 TIL - UICollectionView란?, UICollectionViewDataSource의 개념, UICollectionViewLayout의 개념](https://github.com/devKobe24/TIL/blob/main/TIL/230724(2)_TIL.md)
 - [230725 TIL - userinterfacestate.xcuserstate??](https://github.com/devKobe24/TIL/blob/main/TIL/230725_TIL.md)
 - [230725 TIL - git fetch, reset](https://github.com/devKobe24/TIL/blob/main/TIL/230725(2)_TIL.md)
+- [230725 TIL - 엔드포인트](https://github.com/devKobe24/TIL/blob/main/TIL/230725(3)_TIL.md)
