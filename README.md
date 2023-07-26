@@ -125,3 +125,4 @@
 - [230725 TIL - 엔드포인트](https://github.com/devKobe24/TIL/blob/main/TIL/230725(3)_TIL.md)
 - [230726 TIL - URLSessoion, session, URLSessionConfiguration](https://github.com/devKobe24/TIL/blob/main/TIL/230726_TIL.md)
 - [230726 TIL - Completion Handler](https://github.com/devKobe24/TIL/blob/main/TIL/230726(2)_TIL.md)
+- [230726 TIL - TDD에서 Mock 객체에 Protocol을 만드는 이유](https://github.com/devKobe24/TIL/blob/main/TIL/230726(3)_TIL.md)
