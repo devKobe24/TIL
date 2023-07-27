@@ -127,3 +127,4 @@
 - [230726 TIL - Completion Handler](https://github.com/devKobe24/TIL/blob/main/TIL/230726(2)_TIL.md)
 - [230726 TIL - TDD(Test-Driven Development)에서 Mock와 Stub 객체에 Protocol을 만드는 이유?](https://github.com/devKobe24/TIL/blob/main/TIL/230726(3)_TIL.md)
 - [230727 TIL - Closure](https://github.com/devKobe24/TIL/blob/main/TIL/230727_TIL.md)
+- [230727 TIL - Result Type](https://github.com/devKobe24/TIL/blob/main/TIL/230727(2)_TIL.md)
