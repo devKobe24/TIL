@@ -140,3 +140,4 @@
 - [230803 TIL - NSCache 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230803(4)_TIL.md)
 - [230804 TIL - URLCache 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230804_TIL.md)
 - [230807 TIL - Increasing Performance by Reducing Dynamic Dispatch 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230807_TIL.md)
+- [230807 TIL - Understanding Swift Performance 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230807(2)_TIL.md)
