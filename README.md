@@ -139,3 +139,4 @@
 - [230803 TIL - Cache 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230803(3)_TIL.md)
 - [230803 TIL - NSCache 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230803(4)_TIL.md)
 - [230804 TIL - URLCache 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230804_TIL.md)
+- [230807 TIL - Increasing Performance by Reducing Dynamic Dispatch 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230807_TIL.md)
