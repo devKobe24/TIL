@@ -147,3 +147,4 @@
 - [230810 TIL - Storing Keys in the Keychain🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230810(2)_TIL.md)
 - [230811 TIL - Keychain 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230811_TIL.md)
 - [230812 TIL - Keychain(2) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230812_TIL.md)
+- [230814 TIL - 데이터베이스와 코어데이터 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230814_TIL.md)
