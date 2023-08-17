@@ -150,3 +150,4 @@
 - [230814 TIL - 데이터베이스와 코어데이터 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230814_TIL.md)
 - [230816 TIL - 클로저 냠냠(1) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230816_TIL.md)
 - [230817 TIL - View Drawing Cycle(1) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230817_TIL.md)
+- [230818 TIL - UIVIew 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230818_TIL.md)
