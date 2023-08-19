@@ -151,3 +151,4 @@
 - [230816 TIL - 클로저 냠냠(1) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230816_TIL.md)
 - [230817 TIL - View Drawing Cycle(1) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230817_TIL.md)
 - [230818 TIL - UIVIew 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230818_TIL.md)
+- [230819 TIL - View Drawing Cycle(2) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230819_TIL.md)
