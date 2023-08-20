@@ -152,3 +152,4 @@
 - [230817 TIL - View Drawing Cycle(1) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230817_TIL.md)
 - [230818 TIL - UIVIew 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230818_TIL.md)
 - [230819 TIL - View Drawing Cycle(2) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230819_TIL.md)
+- [230820 TIL - weak self 그것이 알고싶다?! - 과연 꼭 사용해야 하는 것인가? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230820_TIL.md)
