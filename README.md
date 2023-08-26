@@ -155,3 +155,4 @@
 - [230820 TIL - weak self 그것이 알고싶다?! - 과연 꼭 사용해야 하는 것인가? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230820_TIL.md)
 - [230823 TIL - 그것이 알고 Swift다 1편 - Swift는 일급함수인가? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230823_TIL.md)
 - [230825 TIL - 그것이 알고Swift다 2편 - 동시성 프로그래밍 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230824_TIL.md)
+- [230827 TIL - 그것이 알고 Swift다 3편 - GCD 기본 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230827_TIL.md)
