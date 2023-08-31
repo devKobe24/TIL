@@ -158,3 +158,4 @@
 - [230827 TIL - 그것이 알고 Swift다 3편 - GCD 기본 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230827_TIL.md)
 - [230829 TIL - UIView Animations](https://github.com/devKobe24/TIL/blob/main/TIL/230829_TIL.md)
 - [230830 TIL - 그것이 알고 Swift다 4편 - GCD 심화 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230830_TIL.md)
+- [230901 TIL - 그것이 알고 Swift다 5편 - GCD 심화 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230901_TIL.md)
