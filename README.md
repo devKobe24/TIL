@@ -162,3 +162,4 @@
 - [230904 TIL - 디자인 패턴(추상 팩토리) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230904_TIL.md)
 - [230909 TIL - contentInset 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230909_TIL.md)
 - [230909 TIL - adjustedContentInset 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230909(2)_TIL.md)
+- [230909 TIL - contentInsetAdjustmentBehavior 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230909(3)_TIL.md)
