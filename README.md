@@ -160,3 +160,4 @@
 - [230830 TIL - 그것이 알고 Swift다 4편 - GCD 심화 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230830_TIL.md)
 - [230901 TIL - 그것이 알고 Swift다 5편 - GCD 심화 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230901_TIL.md)
 - [230904 TIL - 디자인 패턴(추상 팩토리) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230904_TIL.md)
+- [230909 TIL - contentInset 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230909_TIL.md)
