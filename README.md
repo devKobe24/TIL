@@ -165,3 +165,4 @@
 - [230909 TIL - contentInsetAdjustmentBehavior 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230909(3)_TIL.md)
 - [230909 TIL - UIScrollView.ContentInsetAdjustmentBehavior 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230909(4)_TIL.md)
 - [230909 TIL - Sendable 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230909(5)_TIL.md)
+- [230909 TIL - Static Dispatch & Dynamic Dispatch(1)](https://github.com/devKobe24/TIL/blob/main/TIL/230909(6)_TIL.md)
