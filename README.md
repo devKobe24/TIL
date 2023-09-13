@@ -169,3 +169,4 @@
 - [230910 TIL - Static Dispatch & Dynamic Dispatch(2) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230910_TIL.md)
 - [230910 TIL - About Core Animation 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230911_TIL.md)
 - [230912 TIL - Core Data 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230912_TIL.md)
+- [230914 TIL - Core Loction 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230914_TIL.md)
