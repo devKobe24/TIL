@@ -175,3 +175,4 @@
 - [230918 TIL - RunLoop 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230918_TIL.md)
 - [230918 TIL - Combine 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230918(2)_TIL.md)
 - [230918 TIL - Combine(2) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230918(3)_TIL.md)
+- [230919 TIL - Combine을 이해하기 위한 사전지식 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230919_TIL.md)
