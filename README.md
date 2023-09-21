@@ -181,3 +181,4 @@
 - [230921 TIL - SDK 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230921(2)_TIL.md)
 - [230921 TIL - Social Login 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230921(3)_TIL.md)
 - [230921 TIL - SSL 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230921(4)_TIL.md)
+- [230921 TIL - TLS 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230921(5)_TIL.md)
