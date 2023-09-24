@@ -184,3 +184,4 @@
 - [230921 TIL - TLS 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230921(5)_TIL.md)
 - [230923 TIL - Core Data Summary 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230923_TIL.md)
 - [230924 TIL - Core Data Stack 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230924_TIL.md)
+- [230924 TIL - 네트워크 기초(1) 용어의 정의 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230924(2)_TIL.md)
