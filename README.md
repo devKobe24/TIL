@@ -188,3 +188,4 @@
 - [230925 TIL - identifier 재사용을 위한 Protocol 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230925_TIL.md)
 - [230925 TIL - MVVM 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230925(2)_TIL.md)
 - [230925 TIL - User Notification 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230925(3)_TIL.md)
+- [230926 TIL - MVVM 탄생과정, 특징](https://github.com/devKobe24/TIL/blob/main/TIL/230926_TIL.md)
