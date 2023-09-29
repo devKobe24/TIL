@@ -191,3 +191,4 @@
 - [230926 TIL - MVVM 탄생과정, 특징 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230926_TIL.md)
 - [230926 TIL - iOS 프로그래밍 관점에서 본 Delegate 패턴 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230926(2)_TIL.md)
 - [230928 TIL - 비동기 코드 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230928_TIL.md)
+- [230929 TIL - 동기와 비동기, async & await 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230929_TIL.md)
