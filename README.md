@@ -193,3 +193,4 @@
 - [230928 TIL - 비동기 코드 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230928_TIL.md)
 - [230929 TIL - 동기와 비동기, async & await 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/230929_TIL.md)
 - [231001 TIL - 브레이크 포인트가 파란 점선인 경우 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231001_TIL.md)
+- [231001 TIL - 개발 환경에 따라 각각 다르게 API Key를 관리하는 방법 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231001(2)_TIL.md)
