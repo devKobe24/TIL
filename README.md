@@ -196,3 +196,4 @@
 - [231001 TIL - 개발 환경에 따라 각각 다르게 API Key를 관리하는 방법 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231001(2)_TIL.md)
 - [231002 TIL - Base64 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231002_TIL.md)
 - [231013 TIL - UTF-8 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231013_TIL.md)
+- [231015 TIL - contentOffset 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231015_TIL.md)
