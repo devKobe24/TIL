@@ -201,3 +201,4 @@
 - [231015 TIL - contentSize 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231015(3)_TIL.md)
 - [231018 TIL - Designated and Convenience Initializers in Action(지정 및 편의 초기화 실행) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231018_TIL.md)
 - [231022 TIL - 메모리와 변수의 수명 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231022_TIL.md)
+- [231022 TIL - 열거형 연관값(Enumerations Associatied Values) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231022(2)_TIL.md)
