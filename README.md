@@ -204,3 +204,4 @@
 - [231022 TIL - 열거형 연관값(Enumerations Associatied Values) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231022(2)_TIL.md)
 - [231023 TIL - 네트워크 기초(3) OSI 7걔층 모델 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231023_TIL.md)
 - [231025 TIL - type casting과 type conversion의 차이점 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231025_TIL.md)
+- [231025 TIL - 네트워크 기초(4) 인터네트워킹 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231025(2)_TIL.md)
