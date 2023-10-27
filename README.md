@@ -209,3 +209,4 @@
 - [231026 TIL - 네트워크 기초(5) 프로토콜 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231026_TIL.md)
 - [231026 TIL - Combine(1)-  upstream, downstream, subscriber, publisher 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231026(2)_TIL.md)
 - [231027 TIL - 네트워크 기초(6) 주소의 표현](https://github.com/devKobe24/TIL/blob/main/TIL/231027_TIL.md)
+- [231028 TIL - 네트워크 기초(7) 주소와 이름](https://github.com/devKobe24/TIL/blob/main/TIL/231028_TIL.md)
