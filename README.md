@@ -211,3 +211,4 @@
 - [231027 TIL - 네트워크 기초(6) 주소의 표현 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231027_TIL.md)
 - [231028 TIL - 네트워크 기초(7) 주소와 이름 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231028_TIL.md)
 - [231028 TIL - API와 SDK 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231028(2)_TIL.md)
+- [231029 TIL - 네트워크 기초(7) 주소의 표현 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231029_TIL.md)
