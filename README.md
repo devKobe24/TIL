@@ -214,3 +214,4 @@
 - [231029 TIL - 네트워크 기초(7) 주소의 표현 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231029_TIL.md)
 - [231029 TIL - Kodeco Core Data 정리(1) 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231029(2)_TIL.md)
 - [231030 TIL - 이중 for 문을 대체할 수 있는 조합 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231030_TIL.md)
+- [231030 TIL - plist에서 토큰 가져오기 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231030(2)_TIL.md)
