@@ -216,3 +216,4 @@
 - [231030 TIL - 이중 for 문을 대체할 수 있는 조합 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231030_TIL.md)
 - [231030 TIL - plist에서 토큰 가져오기 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231030(2)_TIL.md)
 - [231030 TIL - weak self란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231030(3)_TIL.md)
+- [231031 TIL - 동기와 비동기처리 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031_TIL.md)
