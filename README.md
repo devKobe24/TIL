@@ -219,3 +219,4 @@
 - [231031 TIL - 동기와 비동기처리 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031_TIL.md)
 - [231031 TIL - Generic이 필요한 이유 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(2)_TIL.md)
 - [231031 TIL - DateFormatter이란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(3)_TIL.md)
+- [231031 TIL - Git remote branch 가져오기!! 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(4)_TIL.md)
