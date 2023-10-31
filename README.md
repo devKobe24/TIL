@@ -223,3 +223,4 @@
 - [231031 TIL - Git remote branch 가져오기!! 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(4)_TIL.md)
 - [231031 TIL - JSONDecoder란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(6)_TIL.md)
 - [231031 TIL - contentOffset이란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(7)_TIL.md)
+- [231031 TIL - contentSize란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(8)_TIL.md)
