@@ -217,6 +217,7 @@
 - [231030 TIL - plist에서 토큰 가져오기 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231030(2)_TIL.md)
 - [231030 TIL - weak self란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231030(3)_TIL.md)
 - [231031 TIL - 동기와 비동기처리 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031_TIL.md)
+- [231031 TIL - URLSession이란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(5)_TIL.md)
 - [231031 TIL - Generic이 필요한 이유 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(2)_TIL.md)
 - [231031 TIL - DateFormatter이란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(3)_TIL.md)
 - [231031 TIL - Git remote branch 가져오기!! 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(4)_TIL.md)
