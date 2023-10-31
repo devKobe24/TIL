@@ -224,3 +224,4 @@
 - [231031 TIL - JSONDecoder란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(6)_TIL.md)
 - [231031 TIL - contentOffset이란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(7)_TIL.md)
 - [231031 TIL - contentSize란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(8)_TIL.md)
+- [231031 TIL - contentInset이란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231031(9)_TIL.md)
