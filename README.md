@@ -229,3 +229,4 @@
 - [231102 TIL - ISO8601DateFormatter 형식 변환하기 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231102_TIL.md)
 - [231102 TIL - 모듈화와 모듈 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231102(2)_TIL.md)
 - [231102 TIL - 클래스와 구조체의 차이점 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231102(3)_TIL.md)
+- [231104 TIL - SceneDelegate와 AppDelegate의 차이점 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231104_TIL.md)
