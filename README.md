@@ -230,3 +230,4 @@
 - [231102 TIL - 모듈화와 모듈 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231102(2)_TIL.md)
 - [231102 TIL - 클래스와 구조체의 차이점 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231102(3)_TIL.md)
 - [231104 TIL - SceneDelegate와 AppDelegate의 차이점 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231104_TIL.md)
+- [231106 TIL - 절대값(absolute value) `abs` 함수](https://github.com/devKobe24/TIL/blob/main/TIL/231106_TIL.md)
