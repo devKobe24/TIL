@@ -232,3 +232,4 @@
 - [231104 TIL - SceneDelegate와 AppDelegate의 차이점 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231104_TIL.md)
 - [231106 TIL - 절대값(absolute value) `abs` 함수 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231106_TIL.md)
 - [231107 TIL - 클라우드 킷 데이터베이스에서 `Encrypted type`이란? 🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231107_TIL.md)
+- [231107 TIL - 클라우드 킷 데이터베이스에서 `recordName`이란?🗂️ / What is the `recordName` in CloudKit database?🗂️](https://github.com/devKobe24/TIL/blob/main/TIL/231107(2)_TIL.md)
