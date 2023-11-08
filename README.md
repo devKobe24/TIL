@@ -234,3 +234,4 @@
 - [231107 TIL - 클라우드 킷 데이터베이스에서 `Encrypted type`이란? ](https://github.com/devKobe24/TIL/blob/main/TIL/231107_TIL.md)
 - [231107 TIL - 클라우드 킷 데이터베이스에서 `recordName`이란? / What is the `recordName` in CloudKit database?](https://github.com/devKobe24/TIL/blob/main/TIL/231107(2)_TIL.md)
 - [231108 TIL - iOS 메모리 구조](https://github.com/devKobe24/TIL/blob/main/TIL/231108_TIL.md)
+- [231108 TIL - 스왑 메커니즘이란?](https://github.com/devKobe24/TIL/blob/main/TIL/231108(2)_TIL.md)
