@@ -238,3 +238,4 @@
 - [231108 TIL - iOS 메모리 관리 전략.](https://github.com/devKobe24/TIL/blob/main/TIL/231108(3)_TIL.md)
 - [231108 TIL - 일반적인 OS 메모리 구조와 iOS 메모리 구조의 차이점.](https://github.com/devKobe24/TIL/blob/main/TIL/231108(4)_TIL.md)
 - [231108 TIL - Copy on Write란?](https://github.com/devKobe24/TIL/blob/main/TIL/231108(5)_TIL.md)
+- [231108 TIL - iOS의 Stack과 Heap 메모리 영역](https://github.com/devKobe24/TIL/blob/main/TIL/231108(6)_TIL.md)
