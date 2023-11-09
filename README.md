@@ -240,3 +240,4 @@
 - [231108 TIL - Copy on Write란?](https://github.com/devKobe24/TIL/blob/main/TIL/231108(5)_TIL.md)
 - [231108 TIL - iOS의 Stack과 Heap 메모리 영역](https://github.com/devKobe24/TIL/blob/main/TIL/231108(6)_TIL.md)
 - [231109 TIL - `stride(from:to:by:)`](https://github.com/devKobe24/TIL/blob/main/TIL/231109_TIL.md)
+- [231109 TIL - 이진 탐색(Binary Search)란?](https://github.com/devKobe24/TIL/blob/main/TIL/231109(2)_TIL.md)
