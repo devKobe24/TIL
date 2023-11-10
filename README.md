@@ -245,3 +245,4 @@
 - [231110 TIL - Swift Standard Libary(1) - Array](https://github.com/devKobe24/TIL/blob/main/TIL/231110_TIL.md)
 - [231110 TIL - Generic(제네릭)](https://github.com/devKobe24/TIL/blob/main/TIL/231110(2)_TIL.md)
 - [231110 TIL - Mixin이란?](https://github.com/devKobe24/TIL/blob/main/TIL/231110(3)_TIL.md)
+- [231110 TIL - 프로토콜 지향 프로그래밍(Protocol-Oriented Programming, POP)란?](https://github.com/devKobe24/TIL/blob/main/TIL/231110(4)_TIL.md)
