@@ -249,3 +249,4 @@
 - [231110 TIL - Protocol(프로토콜)](https://github.com/devKobe24/TIL/blob/main/TIL/231110(5)_TIL.md)
 - [231110 TIL - Swift Standard Libary(2) - Dictionary](https://github.com/devKobe24/TIL/blob/main/TIL/231110(6)_TIL.md)
 - [231110 TIL - Swift Standard Libary(3) - Set](https://github.com/devKobe24/TIL/blob/main/TIL/231110(7)_TIL.md)
+- [231110 TIL - The Swift Collections package.](https://github.com/devKobe24/TIL/blob/main/TIL/231110(8)_TIL.md)
