@@ -253,3 +253,4 @@
 - [231110 TIL - WebAuthn(웹 인증)](https://github.com/devKobe24/TIL/blob/main/TIL/231110(9)_TIL.md)
 - [231111 TIL - Cocoa Framework](https://github.com/devKobe24/TIL/blob/main/TIL/231111_TIL.md)
 - [231111 TIL - Cocoa Touch Framework](https://github.com/devKobe24/TIL/blob/main/TIL/231111(2)_TIL.md)
+- [231111 TIL - Cocoa Core Competencies(코코아 핵심 역량)](https://github.com/devKobe24/TIL/blob/main/TIL/231111(3)_TIL.md)
