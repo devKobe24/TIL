@@ -264,3 +264,4 @@
 - [231119 TIL - 프레임워크와 라이브러리](https://github.com/devKobe24/TIL/blob/main/TIL/231119_TIL.md)
 - [231119 TIL - PrintTestTypes 들여다보기.](https://github.com/devKobe24/TIL/blob/main/TIL/231119(2)_TIL.md)
 - [231119 TIL - 다형성, Swift에서의 다형성.](https://github.com/devKobe24/TIL/blob/main/TIL/231119(3)_TIL.md)
+- [231119 TIL - SIL(Swift Intermediate Language)](https://github.com/devKobe24/TIL/blob/main/TIL/231119(4)_TIL.md)
