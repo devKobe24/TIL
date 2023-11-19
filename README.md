@@ -262,3 +262,4 @@
 - [231118 TIL - Hello Toolchain!(2) Compiler !](https://github.com/devKobe24/TIL/blob/main/TIL/231118_TIL.md)
 - [231118 TIL - Swift 기여 프로젝트(1)](https://github.com/devKobe24/TIL/blob/main/TIL/231118(2)_TIL.md)
 - [231119 TIL - 프레임워크와 라이브러리](https://github.com/devKobe24/TIL/blob/main/TIL/231119_TIL.md)
+- [231119 TIL - PrintTestTypes 들여다보기.](https://github.com/devKobe24/TIL/blob/main/TIL/231119(2)_TIL.md)
