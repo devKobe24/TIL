@@ -267,3 +267,4 @@
 - [231119 TIL - SIL(Swift Intermediate Language)](https://github.com/devKobe24/TIL/blob/main/TIL/231119(4)_TIL.md)
 - [231120 TIL - SILGen(Swift Intermediate Language Generator)](https://github.com/devKobe24/TIL/blob/main/TIL/231120_TIL.md)
 - [231121 TIL - Swift 클로저가 주변 범위의 변수를 캡처할 수 있는 능력, 렉시컬 스코핑(lexical scoping), 어떻게 클로저가 정의 될 때의 컨택스트를 "기억"하고 클로저가 실행될 때 그 컨텍스트에 있는 변수들에 "접근"할 수 있을까?, 캡처 리스트(Capture list), Swift에서의 참조 세마틱스(Reference semantics)](https://github.com/devKobe24/TIL/blob/main/TIL/231121_TIL.md)
+- [231122 TIL - iOS에서의 메모리 구조(1) Stack](https://github.com/devKobe24/TIL/blob/main/TIL/231122_TIL.md)
