@@ -270,3 +270,4 @@
 - [231122 TIL - iOS에서의 메모리 구조(1) Stack](https://github.com/devKobe24/TIL/blob/main/TIL/231122_TIL.md)
 - [231123 TIL - 기술 블로그와 나의 의견 그리고 해결](https://github.com/devKobe24/TIL/blob/main/TIL/231123_TIL.md)
 - [231124 TIL - Swift에서의 캡슐화](https://github.com/devKobe24/TIL/blob/main/TIL/231124_TIL.md)
+- [231124 TIL - Swift에서의 추상화](https://github.com/devKobe24/TIL/blob/main/TIL/231124(2)_TIL.md)
