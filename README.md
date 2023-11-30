@@ -271,3 +271,4 @@
 - [231123 TIL - 기술 블로그와 나의 의견 그리고 해결](https://github.com/devKobe24/TIL/blob/main/TIL/231123_TIL.md)
 - [231124 TIL - Swift에서의 캡슐화](https://github.com/devKobe24/TIL/blob/main/TIL/231124_TIL.md)
 - [231124 TIL - Swift에서의 추상화](https://github.com/devKobe24/TIL/blob/main/TIL/231124(2)_TIL.md)
+- [231130 TIL - Threads](https://github.com/devKobe24/TIL/blob/main/TIL/231130-TIL.md)
