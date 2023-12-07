@@ -272,3 +272,4 @@
 - [231124 TIL - Swift에서의 캡슐화](https://github.com/devKobe24/TIL/blob/main/TIL/231124_TIL.md)
 - [231124 TIL - Swift에서의 추상화](https://github.com/devKobe24/TIL/blob/main/TIL/231124(2)_TIL.md)
 - [231130 TIL - Threads](https://github.com/devKobe24/TIL/blob/main/TIL/231130-TIL.md)
+- [231208 TIL - 눈사태 효과(Avalanche Effect) 인라인(Inline)][https://github.com/devKobe24/TIL/blob/main/TIL/231208_TIL.md]
